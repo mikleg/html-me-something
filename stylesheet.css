@@ -29,6 +29,9 @@ ul {
 .td_image{
     padding: 1em 9em 1em 3em;
 }
+#example_of_id{
+    padding: 1em 9em 1em 3em;
+}
 table{
     margin: 2% 1% 1% 3%;
 }
